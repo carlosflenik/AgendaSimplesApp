@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188841653834",
+    "project_id": "agenda-simples-app",
+    "storage_bucket": "agenda-simples-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188841653834:android:0362b4322060d99d1198b3",
+        "android_client_info": {
+          "package_name": "com.wh.agendasimplesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGJxF5_qnBuneVUC8irrtzH5RZNLZpBEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
